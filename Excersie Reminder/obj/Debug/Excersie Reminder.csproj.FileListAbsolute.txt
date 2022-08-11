@@ -1,0 +1,11 @@
+D:\Github\C#\Excersie Reminder\Excersie Reminder\bin\Debug\Excersie Reminder.exe.config
+D:\Github\C#\Excersie Reminder\Excersie Reminder\bin\Debug\Excersie Reminder.exe
+D:\Github\C#\Excersie Reminder\Excersie Reminder\bin\Debug\Excersie Reminder.pdb
+D:\Github\C#\Excersie Reminder\Excersie Reminder\obj\Debug\Excersie_Reminder.Properties.Resources.resources
+D:\Github\C#\Excersie Reminder\Excersie Reminder\obj\Debug\Excersie Reminder.csproj.GenerateResource.cache
+D:\Github\C#\Excersie Reminder\Excersie Reminder\obj\Debug\Excersie Reminder.csproj.CoreCompileInputs.cache
+D:\Github\C#\Excersie Reminder\Excersie Reminder\obj\Debug\Excersie Reminder.exe
+D:\Github\C#\Excersie Reminder\Excersie Reminder\obj\Debug\Excersie Reminder.pdb
+D:\Github\C#\Excersie Reminder\Excersie Reminder\obj\Debug\Excersie Reminder.csproj.AssemblyReference.cache
+D:\Github\C#\Excersie Reminder\Excersie Reminder\obj\Debug\Excersie Reminder.csproj.SuggestedBindingRedirects.cache
+D:\Github\C#\Excersie Reminder\Excersie Reminder\obj\Debug\Excersie_Reminder.Reminder.resources
